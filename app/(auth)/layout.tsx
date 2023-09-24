@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 import "../globals.css";
 
 export const metadata = {
-  title: "Undefined Project",
+  title: "Undefined",
   description: "A Next.js 13 Undefined Project Application",
 };
 
